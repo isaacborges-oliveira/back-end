@@ -1,0 +1,4 @@
+C:\Users\43022067801\Desktop\aula-backend\laçosdesafio03\obj\Debug\net8.0\laçosdesafio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\laçosdesafio03\obj\Debug\net8.0\laçosdesafio03.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\laçosdesafio03\obj\Debug\net8.0\laçosdesafio03.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\laçosdesafio03\obj\Debug\net8.0\laçosdesafio03.csproj.CoreCompileInputs.cache

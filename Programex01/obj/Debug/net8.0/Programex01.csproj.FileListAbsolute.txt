@@ -1,0 +1,14 @@
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\Programex01\bin\Debug\net8.0\Programex01.exe
+C:\Users\43022067801\Desktop\aula-backend\Programex01\bin\Debug\net8.0\Programex01.deps.json
+C:\Users\43022067801\Desktop\aula-backend\Programex01\bin\Debug\net8.0\Programex01.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\Programex01\bin\Debug\net8.0\Programex01.dll
+C:\Users\43022067801\Desktop\aula-backend\Programex01\bin\Debug\net8.0\Programex01.pdb
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.dll
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\refint\Programex01.dll
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.pdb
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\Programex01.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\Programex01\obj\Debug\net8.0\ref\Programex01.dll
