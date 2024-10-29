@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laçosdesafio02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cada37fde7cec33f62c1c446a5760e3e315281e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("laçosdesafio02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laçosdesafio02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

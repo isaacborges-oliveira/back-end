@@ -1,0 +1,15 @@
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\bin\Debug\net8.0\carroprogram.exe
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\bin\Debug\net8.0\carroprogram.deps.json
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\bin\Debug\net8.0\carroprogram.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\bin\Debug\net8.0\carroprogram.dll
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\bin\Debug\net8.0\carroprogram.pdb
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.sourcelink.json
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.dll
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\refint\carroprogram.dll
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.pdb
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\carroprogram.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\carroprogram\obj\Debug\net8.0\ref\carroprogram.dll
