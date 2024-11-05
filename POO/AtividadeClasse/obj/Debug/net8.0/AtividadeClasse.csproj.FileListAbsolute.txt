@@ -1,0 +1,15 @@
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.sourcelink.json
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\bin\Debug\net8.0\AtividadeClasse.exe
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\bin\Debug\net8.0\AtividadeClasse.deps.json
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\bin\Debug\net8.0\AtividadeClasse.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\bin\Debug\net8.0\AtividadeClasse.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\bin\Debug\net8.0\AtividadeClasse.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\refint\AtividadeClasse.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\AtividadeClasse.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\AtividadeClasse\obj\Debug\net8.0\ref\AtividadeClasse.dll

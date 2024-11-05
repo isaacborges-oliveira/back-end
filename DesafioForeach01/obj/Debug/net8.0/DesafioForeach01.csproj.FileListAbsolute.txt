@@ -1,0 +1,15 @@
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.sourcelink.json
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\bin\Debug\net8.0\DesafioForeach01.exe
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\bin\Debug\net8.0\DesafioForeach01.deps.json
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\bin\Debug\net8.0\DesafioForeach01.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\bin\Debug\net8.0\DesafioForeach01.dll
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\bin\Debug\net8.0\DesafioForeach01.pdb
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.dll
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\refint\DesafioForeach01.dll
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.pdb
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\DesafioForeach01.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\DesafioForeach01\obj\Debug\net8.0\ref\DesafioForeach01.dll
