@@ -1,0 +1,15 @@
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.sourcelink.json
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\bin\Debug\net8.0\Personagem.exe
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\bin\Debug\net8.0\Personagem.deps.json
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\bin\Debug\net8.0\Personagem.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\bin\Debug\net8.0\Personagem.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\bin\Debug\net8.0\Personagem.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\refint\Personagem.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\Personagem.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\Personagem\obj\Debug\net8.0\ref\Personagem.dll
