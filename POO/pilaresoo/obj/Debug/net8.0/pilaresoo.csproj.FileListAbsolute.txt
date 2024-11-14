@@ -1,0 +1,15 @@
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\bin\Debug\net8.0\pilaresoo.exe
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\bin\Debug\net8.0\pilaresoo.deps.json
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\bin\Debug\net8.0\pilaresoo.runtimeconfig.json
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\bin\Debug\net8.0\pilaresoo.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\bin\Debug\net8.0\pilaresoo.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.AssemblyInfoInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.AssemblyInfo.cs
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.csproj.CoreCompileInputs.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.sourcelink.json
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\refint\pilaresoo.dll
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.pdb
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\pilaresoo.genruntimeconfig.cache
+C:\Users\43022067801\Desktop\aula-backend\POO\pilaresoo\obj\Debug\net8.0\ref\pilaresoo.dll
