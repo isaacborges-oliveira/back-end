@@ -23,7 +23,7 @@ namespace pilaresoo.Classes.Aprendizagem
         }
     }
     public class ALuno : Pessoas{
-        public string Aluno {get; set;}
+        public string? Aluno {get; set;}
         public int Matricula {get; set;}
         public string? Curso {get; set;}
         public float media {get; set;}
